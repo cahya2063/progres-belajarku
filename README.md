@@ -1,5 +1,6 @@
 # Pengalaman Belajar di Dicoding
-ini adalah update
+ini adalah update<br>
+update commit ke-1
 **14 Juni 2021**<br>
 Belajar kelas Memulai Pemrograman dengan Java. (Progres 21%)
 * Belajar tentang apa itu Java dan alasan menggunakannya.
